@@ -1,9 +1,4 @@
 # **Desafio dos 100 dias**
-[EN](/translate/README_EN.md)
-<br/>
-Especialmente durante a Hacktoberfest, este repositório estará recebendo contribuições da comunidade como forma de incentivo aos projetos _open source_. Por ser um projeto amigável aos iniciantes, pode ser a sua porta de entrada para o mundo das contribuições.
-
-![image](https://github.com/ManuCoutinho/100DaysOfCode/blob/main/hacktoberfest_logo.png)
 
 #
  Em busca da criação de bons hábitos e boas práticas, para quem está iniciando os estudos em programação, vamos codar todos os dias!
